@@ -12,3 +12,5 @@ const int TS_LEFT = 903, TS_RT = 163, TS_TOP = 947, TS_BOT = 165;
 and if you don't have the MCUFRIEND ex i will include it for you
 
 Hope it helps and thanks for stopping by!!
+
+Credit goes to https://www.youtube.com/watch?v=ATROwE9lYHM&t=451s his video is what sparked the idea
